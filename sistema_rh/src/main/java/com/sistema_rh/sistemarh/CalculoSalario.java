@@ -5,4 +5,5 @@ public interface CalculoSalario {
     double calcularINSS();
     double calcularDecimoTerceiro();
     double calcularFerias();
+
 }
